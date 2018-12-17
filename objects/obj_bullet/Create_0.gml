@@ -1,6 +1,7 @@
 //// CONSTANTS ////
 bullet_speed = 16;
 spread_range = 4;
+bullet_damage = 1;
 ///////////////////
 
 //// SET VELOCITY AND DIRECTION ////
