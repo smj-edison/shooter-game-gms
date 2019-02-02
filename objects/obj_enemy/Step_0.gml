@@ -12,6 +12,8 @@ image_angle = direction;
 
 //// DYING ////
 if (hp <= 0) {
+	obj_score.theScore += pointsForKill("obj_enemy");
+	
 	instance_destroy(); //die
 }
 ///////////////

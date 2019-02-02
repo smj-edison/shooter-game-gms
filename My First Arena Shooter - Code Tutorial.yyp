@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "244e82c2-dd23-4f5f-a3a3-e9290772bd55",
+            "Value": {
+                "id": "e97e6b5f-fe0a-4462-8243-74ea5f678626",
+                "resourcePath": "scripts\\pointsForKill\\pointsForKill.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2a11983f-c1f6-4c96-852d-8864d1f1bed1",
             "Value": {
                 "id": "f4b204f8-aa6a-4ad5-9c9a-a54a0c80417f",
@@ -84,6 +92,14 @@
                 "id": "19c830d9-b7cc-41a1-b473-c11086c2b360",
                 "resourcePath": "views\\2b17d09e-5717-4df9-8b0d-75b27f63b423.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "40df8bd9-45a2-4df6-bdb2-2b79b714cd7a",
+            "Value": {
+                "id": "0a9d2bfb-68ae-45eb-adae-b31f811d226b",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "7cb6688c-27e6-494b-b8eb-331475f8ed4d",
+            "Value": {
+                "id": "53d8ffe0-dc24-4666-8ec8-ef06217ab56d",
+                "resourcePath": "scripts\\sprintf\\sprintf.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "80232a3d-79d9-4946-8bb2-d3b9317192bb",
             "Value": {
                 "id": "8bda3281-788b-4cb7-9403-32e36907c943",
@@ -188,6 +212,14 @@
                 "id": "b4d2ae7d-408a-468a-b08f-6afd3aaecf98",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "db2dc368-2425-4bd5-b9a7-b2119b6d87c0",
+            "Value": {
+                "id": "16963a79-db51-4838-bd61-d85b36f23306",
+                "resourcePath": "objects\\obj_score\\obj_score.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -240,7 +272,8 @@
         }
     ],
     "script_order": [
-        
+        "7cb6688c-27e6-494b-b8eb-331475f8ed4d",
+        "244e82c2-dd23-4f5f-a3a3-e9290772bd55"
     ],
     "tutorial": "com.YoYoGames.MyFirstGameCode"
 }
