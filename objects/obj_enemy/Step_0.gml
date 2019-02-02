@@ -1,4 +1,5 @@
 /// @description Insert description here
+var deathSound = snd_enemy_death;
 
 //// ATTACKING ////
 
@@ -14,6 +15,7 @@ image_angle = direction;
 if (hp <= 0) {
 	obj_score.theScore += pointsForKill("obj_enemy");
 	
+	audio_play_sound(deathSound, 0, false);
 	instance_destroy(); //die
 }
 ///////////////

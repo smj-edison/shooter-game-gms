@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "c30fa1d3-05dd-4a35-9324-4ed7fd293ba4",
+            "Value": {
+                "id": "c0f4d3eb-63b6-4572-ba50-f070c19d0f58",
+                "resourcePath": "sounds\\snd_enemy_death\\snd_enemy_death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b4d2ae7d-408a-468a-b08f-6afd3aaecf98",
